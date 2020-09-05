@@ -1,0 +1,12 @@
+void main(){
+ a = 1
+ b = 3 +4
+ c = 8*7
+ d = 5-6
+ e = -7
+ f = 8/4
+ g = 9%3
+ circulo x
+ circulo.getcentro x
+ circulo[circulo] x
+} 
